@@ -41,7 +41,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-replace": "1.0.0",
     "gulp-rimraf": "^0.2.2",
-    "gulp-sass": "4.0.1",
+    "gulp-sass": "5.0.0",
     "gulp-sequence": "1.0.0",
     "gulp-sourcemaps": "2.6.4",
     "gulp-uglify": "^3.0.0",
@@ -50,7 +50,7 @@
     "merge2": "^1.2.1",
     "popper.js": "^1.12.9",
     "run-sequence": "^2.2.1",
-    "understrap": "^0.8.6",
+    "understrap": "^0.9.4",
     "undescores-for-npm": "^1.0.0"
   }
 }
